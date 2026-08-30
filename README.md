@@ -13,6 +13,7 @@ My public repos are the visible edge of a homelab AI fleet — multiple servers,
 | **[praxis](https://github.com/gdeyoung/praxis)** | ⭐ The hub — hard-won lessons from running the fleet: serving recipes with verification gates, agent memory architecture, benchmark methodology, curated links |
 | **[mnemograph](https://github.com/gdeyoung/mnemograph)** | The in-process knowledge graph for AI agents — no external databases, no network calls, zero infrastructure |
 | **[focus](https://github.com/gdeyoung/focus)** | Self-hosted web launchpad — Flask + vanilla JS, the start page every browser in the fleet calls home. Inspired by Bonjourr. |
+| **[Clearvoice](https://github.com/gdeyoung/Clearvoice)** | Privacy-first meeting assistant for Linux — record, transcribe, diarize, and summarize meetings with local AI. The fleet's meeting-intelligence frontend. |
 | **[BonjourrNue](https://github.com/gdeyoung/BonjourrNue)** | Minimalist startpage (upstream fork I track) |
 
 ## How the pieces fit
