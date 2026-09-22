@@ -1,6 +1,6 @@
 # Greg DeYoung
 
-RVP SLED Central @ [Elastic](https://elastic.co). Building AI agent fleets on self-hosted hardware since before it was cool.
+Building AI agent fleets on self-hosted hardware since before it was cool.
 
 ## The project: an AI agent fleet that runs itself
 
