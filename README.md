@@ -16,10 +16,11 @@ The fleet's daily-driver machines run Omarchy (Arch + Hyprland), and when the de
 | **[mnemograph](https://github.com/gdeyoung/mnemograph)** | The in-process knowledge graph for AI agents — no external databases, no network calls, zero infrastructure |
 | **[focus](https://github.com/gdeyoung/focus)** | Self-hosted web launchpad — Flask + vanilla JS, the start page every browser in the fleet calls home. Inspired by Bonjourr. |
 | **[Clearvoice](https://github.com/gdeyoung/Clearvoice)** | Privacy-first meeting assistant for Linux — record, transcribe, diarize, and summarize meetings with local AI. The fleet's meeting-intelligence frontend. |
+| **[omarchy-recipes](https://github.com/gdeyoung/omarchy-recipes)** | The Omarchy twin of praxis — how the fleet's laptops run a heavily customized desktop as code: recipe-repo discipline, measured update-overwrite model, plugin hygiene |
 
 ## Omarchy desktop plugins
 
-Four open plugins that grew out of running Omarchy on the fleet's laptops:
+Five open plugins that grew out of running Omarchy on the fleet's laptops:
 
 | Repo | What it does |
 |---|---|
@@ -27,6 +28,7 @@ Four open plugins that grew out of running Omarchy on the fleet's laptops:
 | **[omarchy-tailfin](https://github.com/gdeyoung/omarchy-tailfin)** | The stock Tailscale bar widget rebuilt as a tabbed panel — health warnings, preference toggles, exit-node and Mullvad tabs, searchable peer list |
 | **[omarchy-sysmon](https://github.com/gdeyoung/omarchy-sysmon)** | Live RAM, CPU, network rate, and whole-disk stats in the Omarchy bar — four groups, one widget |
 | **[omarchy-displayplus](https://github.com/gdeyoung/omarchy-displayplus)** | One panel for every display setting — brightness, text size, and universal scale on the front page, full hyprmoncfg layout editor underneath |
+| **[omarchy-powercore](https://github.com/gdeyoung/omarchy-powercore)** | Battery and power strategy — per-source profiles, charge protection, clamshell inhibitor, per-source keyboard backlight, live watts |
 
 ## How the pieces fit
 
@@ -34,6 +36,7 @@ Four open plugins that grew out of running Omarchy on the fleet's laptops:
 - **mnemograph** — knowledge-graph memory as an embeddable library
 - **Clearvoice** — meetings in, structured notes out, without the audio leaving the machine
 - **Omarchy plugins** — the desktop layer the agents and I both work from
+- **omarchy-recipes** — how those Omarchy machines are run as code
 - Everything else (startpages, tooling, forks I track) keeps the fleet running
 
 ## Forks with real work in them
