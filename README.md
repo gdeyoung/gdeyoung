@@ -16,6 +16,7 @@ The fleet's daily-driver machines run Omarchy (Arch + Hyprland), and when the de
 | **[mnemograph](https://github.com/gdeyoung/mnemograph)** | The in-process knowledge graph for AI agents — no external databases, no network calls, zero infrastructure |
 | **[focus](https://github.com/gdeyoung/focus)** | Self-hosted web launchpad — Flask + vanilla JS, the start page every browser in the fleet calls home. Inspired by Bonjourr. |
 | **[Clearvoice](https://github.com/gdeyoung/Clearvoice)** | Privacy-first meeting assistant for Linux — record, transcribe, diarize, and summarize meetings with local AI. The fleet's meeting-intelligence frontend. |
+| **[bazzite-customizations](https://github.com/gdeyoung/bazzite-customizations)** | KDE Plasma customizations and plugins for Bazzite (immutable Fedora) — sudo-free, reversible, measured. First entry: push-to-talk dictation via remote WhisperX. |
 | **[omarchy-recipes](https://github.com/gdeyoung/omarchy-recipes)** | The Omarchy twin of praxis — how the fleet's laptops run a heavily customized desktop as code: recipe-repo discipline, measured update-overwrite model, plugin hygiene |
 
 ## Omarchy desktop plugins
@@ -37,6 +38,7 @@ Five open plugins that grew out of running Omarchy on the fleet's laptops:
 - **Clearvoice** — meetings in, structured notes out, without the audio leaving the machine
 - **Omarchy plugins** — the desktop layer the agents and I both work from
 - **omarchy-recipes** — how those Omarchy machines are run as code
+- **bazzite-customizations** — the KDE/Bazzite twin: Plasma tweaks and plugins for the immutable-Fedora desktops
 - Everything else (startpages, tooling, forks I track) keeps the fleet running
 
 ## Forks with real work in them
