@@ -34,11 +34,11 @@ Sixteen repos for running heavily customized Omarchy (Arch + Hyprland) machines 
 | **[omarchy-driveway](https://github.com/gdeyoung/omarchy-driveway)** | Every drive one click from the bar — USB/disks, SMB/NFS/sshfs shares, rclone cloud mounts |
 | **[omarchy-foyer](https://github.com/gdeyoung/omarchy-foyer)** | The front door — full menu tree on open, live all-source search, one-row AI answers, custom handoffs, timers |
 | **[omarchy-ready-room](https://github.com/gdeyoung/omarchy-ready-room)** | The gaming panel — game-mode session toggles, controller battery and test, instant replay recorder, MangoHud-linked FPS overlay |
-| **[omarchy-timepiece](https://github.com/gdeyoung/omarchy-timepiece)** | The bar clock, rebuilt — date in the label, color-coded world clocks, countdown timer, self-running pomodoro |
+| **[omarchy-timepiece](https://github.com/gdeyoung/omarchy-timepiece)** | Fork of the stock clock — date in the bar label, color-coded world-clock row, countdown timer, self-running pomodoro |
 | **[omarchy-timemachine](https://github.com/gdeyoung/omarchy-timemachine)** | Unencrypted rsync time machine — status chip, five-tab popup (Status/Snapshots/Health/Recovery/Settings), bundled engine |
 | **[omarchy-weather](https://github.com/gdeyoung/omarchy-weather)** | WeatherX — tabbed panel, pinned places, live keyless radar (Esri + RainViewer), Open-Meteo. No API keys. |
 | **[omarchy-armoury](https://github.com/gdeyoung/omarchy-armoury)** | ASUS laptop control for the bar — temps, fan, battery care mode, firmware attributes (asus-armoury kernel module) |
-| **[omarchy-ultrawide-bar](https://github.com/gdeyoung/omarchy-ultrawide-bar)** | The stock bar, rebuilt — opt-in partial width for ultrawide monitors, fullscreen auto-hide, window-mode helper |
+| **[omarchy-ultrawide-bar](https://github.com/gdeyoung/omarchy-ultrawide-bar)** | Fork of the stock Omarchy bar — opt-in partial width for ultrawide monitors, fullscreen auto-hide, window-mode helper |
 
 ## Desktop & system tools
 
